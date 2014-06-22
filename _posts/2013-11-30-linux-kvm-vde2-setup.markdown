@@ -6,10 +6,9 @@ comments: false
 categories: [archlinux kvm vde2 virtualization]
 ---
 
-Since I started working at my internship, I needed a way to fully access my virtual machines via a network. I tried to setup a bridge with NetworkManager, but this failed miserably and I couldn't find any documentation online on how to achieve this.
-
-After some browsing I soon found out I could use VDE2 to create a "private" virtual network, where I can access my virtual machines directly via an internal ip. And uses dnsmasq for dhcp for the VM's since I'm too lazy to setup static ip addresses.
+Since I started working at my internship, I needed a way to fully access my virtual machines via a network. I tried to setup a bridge with NetworkManager, but this failed miserably and I couldn't find any documentation online on how to achieve this. After some browsing I soon found out I could use VDE2 to create a "private" virtual network, where I can access my virtual machines directly via an internal ip. And uses dnsmasq for dhcp for the VM's since I'm too lazy to setup static ip addresses.
 The solution requires the vde2 and dnsmasq packages and a simple (optional) vde2 service for setting up vde2.
+
 {% highlight bash %}
 [Unit]
 Description=Manage VDE Switch
