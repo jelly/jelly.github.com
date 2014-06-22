@@ -13,3 +13,4 @@ image:
 ---
 
 I'm a fulltime software developer at [Zarafa](http://www.zarafa.com) and [Arch linux](https://www.archlinux.org) Trusted User. I love working on open-source software, programming, gaming, hanging out on irc.
+My general interests are Linux, Python, virtualization, Programming, Packaging, Games and Cycling.
