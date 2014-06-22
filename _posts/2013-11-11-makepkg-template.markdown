@@ -6,12 +6,11 @@ comments: false
 categories: archlinux pacman
 ---
 
-Since around March pacman's git repo has a new tool called makepkg-template created by Florian Pritz. Below is a description from man makepkg-template.
-
+Since around March pacman's git repo has a new tool called makepkg-template created by Florian Pritz. Below is a description from man makepkg-template:  
 *makepkg-template is a script to ease the work of maintaining multiple similar PKGBUILDs.
-It allows you to move most of the code from the PKGBUILD into a template file and uses markers to allow in-place updating of existing PKGBUILDs if the template has been changed.*
+It allows you to move most of the code from the PKGBUILD into a template file and uses markers to allow in-place updating of existing PKGBUILDs if the template has been changed.*  
+With makepkg-template you can define a template file, which can replace parts of a PKGBUILD and keep them consistent.  
 
-With makepkg-template you can define a template file, which can replace parts of a PKGBUILD and keep them consistent.
 {% highlight bash %}
 
 build() {
