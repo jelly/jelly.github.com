@@ -1,33 +1,33 @@
-title:            Site Title
-description:      Describe your website.
+title:            Jelly's Blog
+description:      
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://localhost:4000
 disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Jelle van der Waa
   avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  bio:            "I'm a software developer at Zarafa and Archlinux Trusted User.."
+  email:          jelle@vdwaa.nl
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:
+  twitter: jvdwaa
   facebook:
-  github:
+  github: jelly
   stackoverflow:
-  linkedin:
+  linkedin: jvanderwaa
   instagram:
   lastfm:
   tumblr:
   pinterest:
   foursquare:
-  steam:
+  steam: jelly_w
   dribbble:
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+  google_plus: 114566411797261587256
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: UA-44870543-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -35,18 +35,13 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
+  - title: About me
     url: /about/
   - title: Posts
     url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Europe/Amsterdam
 future:      true
 pygments:    true
 #highlighter: pygments
