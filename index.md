@@ -1,9 +1,9 @@
 ---
 layout: home
-description: "A responsive Jekyll theme with editorial tendencies by designer Michael Rose."
-tags: [Jekyll, theme, responsive, blog, template]
+description: "Jelly's blog."
+tags: [jelle, archlinux, linux, programming, python]
 image:
-  feature: texture-feature-01.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  feature: background.jpg
+  credit: Wallbase
+  creditlink: http://wallbase.cc/wallpaper/2453007
 ---
