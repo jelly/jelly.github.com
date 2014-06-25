@@ -2,7 +2,7 @@
 layout: post
 title: "unofficial Archlinux repo"
 date: 2013-08-25 18:37
-comments: true
+comments: false
 categories: [Archlinux, AUR, repo ]
 ---
 
