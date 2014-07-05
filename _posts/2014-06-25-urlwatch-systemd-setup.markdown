@@ -28,6 +28,9 @@ Description=Daily urlwatch update
 
 [Timer]
 OnCalendar=hourly
+
+[Install]
+WantedBy=multi-user.target
 {% endhighlight %}
 
 The systemd service just calls urlwatch with paramters for email delivery. Note that you have to configure the user in the [Service] which runs urlwatch.
