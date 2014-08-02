@@ -6,8 +6,7 @@ comments: false
 categories: [Zarafa, Python, update, July]
 ---
 
-It's been almost a month since my previous [post](http://vdwaa.nl/zarafa/python/update/june/python-zarafa-monthly-update-june/) has been released on Github. Since then we haven't stopped with the development of this new api.
-The following git command shows the changes made since the last post.
+It's been almost a month since my previous [post](http://vdwaa.nl/zarafa/python/update/june/python-zarafa-monthly-update-june/) on the changes in python-zarafa. This month we continued adding new features to python-zarafa, the following git command shows the changes made since the last post.
 {% highlight python %}
 i[jelle@P9][~/projects/python-zarafa]%git log --since "JUN 29 2014" --until "AUG 1 2014" --pretty=format:"%h %ar : %s"
 20a391b 2 days ago : fix partial rename in class Property
@@ -23,53 +22,77 @@ e3d7e4f 4 weeks ago : zarafa-stats.py: zarafa-stats in Python except --top suppo
 0598914 4 weeks ago : Remove property tag since the generator accepts arguments
 984d58d 4 weeks ago : - new class Table for MAPI tables - refactor delete - Item.tables() for recipeints and attachments - Rename property\_ and properties to prop and props
 {% endhighlight %}
-
+In the following chapters we walk through the main new features in python-zarafa.
 
 Table support
 -------------
-In python-zarafa we added the a table class which abstrats MAPI tables. It provids a few methods which makes it easier to display a MAPI table in various formats.
+In python-zarafa we added a table class which abstracts MAPI tables. It provids a few methods which makes it easier to display a MAPI table in various formats, for example csv.
 
 {% highlight python %}
-for item in zarafa.Server().user('user1').store.inbox:
+for item in zarafa.Server().user('user').store.inbox:
 	print item.table(PR_MESSAGE_RECIPIENTS, columns=[PR_EMAIL_ADDRESS, PR_ENTRYID]).csv(delimiter=';')
 	print item.table(PR_MESSAGE_ATTACHMENTS).text()
 	print item
-	for t in item.tables():
-		print t
-		print t.csv()
+	for table in item.tables():
+		print table
+		print table.csv()
 {% endhighlight %}
 
 Address class
 -------------
-The Address class represents the sender and recipient of a MAPI message. 
+The new Address class represents the sender and recipient of a MAPI message.
 
 {% highlight python %}
-import zarafa
-server = zarafa.Server()
-	for item in server.user('user').store.inbox:
-	    print 'from:', item.sender.name, item.sender.email
-	        for r in item.recipients():
-			        print 'rec:', r.name, r.email
+item = zarafa.Server().user('user').store.inbox.items().next()
+print 'from:', item.sender.name, item.sender.email
+for r in item.recipients():
+	        print 'rec:', r.name, r.email
+{% endhighlight %}
 
+Which prints:
+{% highlight python %}
+from: john@localhost john@localhost
+rec: jaap@localhost jaap@localhost
 {% endhighlight %}
 Associated folder support
 -------------------------
+An associated folder in MAPI is a "hidden" table of a folder, which is usually used to store configuration messages for example quota information.
+In the [Zarafa-Inspector](https://github.com/zarafagroupware/zarafa-inspector) this functionality is used to look into these MAPI objects.
+  You can access the associated folder by calling associated method on a folder.
 
 {% highlight python %}
+associated = zarafa.Server().user('user').store.inbox.associated
 {% endhighlight %}
 
 User creation/removal
 ---------------------
+The API now also supports the addition and removal of users, which is as simple as the code example below.
 
 {% highlight python %}
+server = zarafa.Server()
+server.create_user('cowboy', fullname='cowboy bebop')
+server.remove_user('cowboy')
 {% endhighlight %}
 
 Entryid access
 --------------
+It wasn't possible to use MAPI Object's entryid to access items directly. Previously we had to loop through the entire inbox to access a partiuclar item. We can now directly access the mapi item if we know it's entryid as you can see in the example below.
 
 {% highlight python %}
-eid = z.user('user1').store.inbox.items().next().entryid
-print 'eid', eid
-print 'sto', z.user('user1').store.item(eid).entryid
-print 'via', z.user('user1').store.inbox.item(eid).entryid
+user = zarafa.Server().user('user')
+entryid = user.store.inbox.items().next().entryid
+print 'enytryid', entryid
+# Access via store
+print 'store   ', user.store.item(entryid).entryid
+# Access via folder
+print 'inbox   ', user.store.inbox.item(entryid).entryid
 {% endhighlight %}
+
+Example output
+{% highlight bash %}
+enytryid 00000000C80AB3E59F3E420D984664AF5049F1A401000000050000002496BD8A547C46B881BFAC8E9392019700000000
+store    00000000C80AB3E59F3E420D984664AF5049F1A401000000050000002496BD8A547C46B881BFAC8E9392019700000000
+inbox    00000000C80AB3E59F3E420D984664AF5049F1A401000000050000002496BD8A547C46B881BFAC8E9392019700000000
+{% endhighlight %}
+
+These where all the main new features, there are also numerous other small changes which I didn't discuss.
