@@ -18,4 +18,5 @@ image:
 | [Cowboy Bebop](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=23)| 5   | 1998-1999 (Series, 26 Episodes)   |
 | [Ghost in the Shell](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=61)| 4   | 1995 (Movie)   |
 | [Afro Samurai](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=2656)     | 3  | 2009 (Series, 5 Episodes) |
+| [Hellsing](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=32)  | 4  | 2001-2002 (Series, 13 Episodes)   |
 {: rules="groups"}
