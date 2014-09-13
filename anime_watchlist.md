@@ -20,6 +20,7 @@ image:
 | [Afro Samurai](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=2656)     | 3  | 2009 (Series, 5 Episodes) |
 | [Hellsing](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=32)  | 4  | 2001-2002 (Series, 13 Episodes)   |
 | [Tonari no Totoro](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=303) | 5 | 1988 (Movie) |
+| [Spirted away](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=112) | 4 | 2001 (Movie) |
 | [Tenkuu no Shiro Laputa](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=331) | 5 | 1986 (Movie) |
 | [Baccano!](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=4897) | 3 | 2007 (Series, 13 Episodes) |
 {: rules="groups"}
