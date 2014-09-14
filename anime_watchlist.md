@@ -24,4 +24,6 @@ image:
 | [Tenkuu no Shiro Laputa](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=331) | 5 | 1986 (Movie) |
 | [Baccano!](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=4897) | 3 | 2007 (Series, 13 Episodes) |
 | [Cowboy Bebop: Knockin` on Heaven`s Door](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=219) | 3 | 2001 (Movie) |
+| [Akira](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=28) | 4 | 1988 (Movie) |
+| [Great Teacher Onizuka](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=191) | 5 | 1999-200 (Series, 43 Episodes) |
 {: rules="groups"}
