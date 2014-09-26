@@ -26,4 +26,5 @@ image:
 | [Cowboy Bebop: Knockin` on Heaven`s Door](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=219) | 3 | 2001 (Movie) |
 | [Akira](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=28) | 4 | 1988 (Movie) |
 | [Great Teacher Onizuka](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=191) | 5 | 1999-200 (Series, 43 Episodes) |
+| [Wolf Children](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=8832) | 4 | 2012 (Movie) |
 {: rules="groups"}
