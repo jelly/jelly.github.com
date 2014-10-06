@@ -9,6 +9,7 @@ categories: [Zarafa, Python, update, October]
 It's been two months since I've written about a [python-zarafa](https://github.com/zarafagroupware/python-zarafa) update. Lately it has been a busy time and there aren't that much changes made to the API.
 In this post I will describe the new features we added.
 
+The changes in Git where as following.
 {% highlight python %}
 3236e26 2 days ago : Add User.admin which checks if user is admin
 34e3e54 2 days ago : Add try/except to last_logon/last_logof since a new user has no logon property
