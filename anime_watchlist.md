@@ -29,4 +29,5 @@ image:
 | [Wolf Children](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=8832) | 4 | 2012 (Movie) |
 | [Full Metal Alchemist](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=979) | 5 | 2003-2004 (Series, 51 Episodes) |
 | [Silver Spoon](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=9606) | 4 | 2013 (Series, 11 Episodes) |
+| [Porco Rosso](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=306) | 4 | 1992 (Movie) |
 {: rules="groups"}
