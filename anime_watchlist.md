@@ -28,4 +28,5 @@ image:
 | [Great Teacher Onizuka](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=191) | 5 | 1999-200 (Series, 43 Episodes) |
 | [Wolf Children](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=8832) | 4 | 2012 (Movie) |
 | [Full Metal Alchemist](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=979) | 5 | 2003-2004 (Series, 51 Episodes) |
+| [Silver Spoon](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=9606) | 4 | 2013 (Series, 11 Episodes) |
 {: rules="groups"}
