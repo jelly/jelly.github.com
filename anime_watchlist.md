@@ -30,4 +30,5 @@ image:
 | [Full Metal Alchemist](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=979) | 5 | 2003-2004 (Series, 51 Episodes) |
 | [Silver Spoon](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=9606) | 4 | 2013 (Series, 11 Episodes) |
 | [Silver Spoon 2](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=9968) | 4 | 2014 (Series, 11 Episodes) |
+| [The wind rises](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=9514) | 5 | 2013 (Movie) |
 {: rules="groups"}
