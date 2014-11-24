@@ -32,4 +32,5 @@ image:
 | [Porco Rosso](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=306) | 4 | 1992 (Movie) |
 | [Silver Spoon 2](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=9968) | 4 | 2014 (Series, 11 Episodes) |
 | [The wind rises](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=9514) | 5 | 2013 (Movie) |
+| [Kill la Kill](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=9875) | 4 | 2013-2014 (Series, 24 Episodes)  |
 {: rules="groups"}
