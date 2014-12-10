@@ -35,4 +35,5 @@ image:
 | [Kill la Kill](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=9875) | 4 | 2013-2014 (Series, 24 Episodes)  |
 | [Space Dandy](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=10027) | 3 | 2014 (Series, 11 Episodes) |
 | [Hellsing Ultimate](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=3296) | 4 | 2006 (Series, 10 Episodes) |
+| [Fullmetal Alchemist The Movie: Conqueror of Shamballa](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=2359) | 4 | 2005 (Movie) |
 {: rules="groups"}
