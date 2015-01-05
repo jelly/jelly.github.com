@@ -189,5 +189,26 @@ Zarafa.plugins.safesenders.SettingsSafesendersWidget = Ext.extend(Zarafa.setting
 });
 Ext.reg('safesenders.settingssafesenderswidget', Zarafa.plugins.safesenders.SettingsSafesendersWidget);
 {% endhighlight %}
-This file will implement the widget which will remove an "email address or domain" from the safe senders list.
+This file will implement the widget which will remove an "email address or domain" from the safe senders list, which we will not handle in this post.
+The last thing we will add is registering the SettingsSafesendersWidget in the insertion point in *js/SafeSenders.js* by adding the following code in initPlugin after the *Zarafa.plugins.safesenders.SafeSenders.superclass.initPlugin.apply*.
+{% highlight javascript %}
+this.registerInsertionPoint('context.settings.category.mail', this.safeSendersWidget, this);
+{% endhighlight %}
+And adding the function safeSendersWidget in *js/SafeSenders.js*:
+{% highlight javascript %}
+/**
+ * Insert safesenders widget into the mail category
+ * @return {settingssafesenderswidget} 
+ */
+safeSendersWidget: function() 
+{
+	return [{
+		xtype : 'safesenders.settingssafesenderswidget'
+	}];
+}
+{% endhighlight %}
+
+We have now implemented a bare widget in the WebApp's mail settings, which doesn't do anything yet.
+
+
 
