@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "WebApp plugin development introduction"
-date: 2015-01-05 13:37
+date: 2015-01-11 13:37
 comments: false
 categories: [Zarafa, WebApp, JavaScript, Development, Introduction]
 ---
@@ -208,7 +208,4 @@ safeSendersWidget: function()
 }
 {% endhighlight %}
 
-We have now implemented a bare widget in the WebApp's mail settings, which doesn't do anything yet.
-
-
-
+We have now implemented a bare widget in the WebApp's mail settings, which doesn't do anything yet. I won't discuss the rest of the implementation, but you can find the full source [here](https://github.com/jelly/zarafa-webapp-safesenderssettings).
