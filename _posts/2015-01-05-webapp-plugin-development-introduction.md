@@ -209,3 +209,5 @@ safeSendersWidget: function()
 {% endhighlight %}
 
 We have now implemented a bare widget in the WebApp's mail settings, which doesn't do anything yet. I won't discuss the rest of the implementation, but you can find the full source [here](https://github.com/jelly/zarafa-webapp-safesenderssettings).
+
+More advanced information can be found in the [Webapp Developer manual](http://doc.zarafa.com/trunk/WebApp_Developers_Manual/en-US/html-single/) and [WebApp API Overview](https://community.zarafa.com/webapp/).
