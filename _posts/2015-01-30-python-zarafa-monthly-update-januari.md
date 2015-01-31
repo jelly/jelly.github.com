@@ -6,7 +6,7 @@ comments: false
 categories: [Zarafa, Python, update, Januari]
 ---
 
-It's a new year, so it's also time for a new update about [python-zarafa]((https://github.com/zarafagroupware/python-zarafa). The last update was in [October]({% post_url 2014-10-06-python-zarafa-monthly-update-october %}) and a lot of new improvements and features have been added. In this article I'll walk through the new features and improvements. A detailed git changelog can be found at the end of the article.
+It's a new year, so it's also time for a new update about [python-zarafa](https://github.com/zarafagroupware/python-zarafa). The last update was in [October]({% post_url 2014-10-06-python-zarafa-monthly-update-october %}) and a lot of new improvements and features have been added. In this article I'll walk through the new features and improvements. A detailed git changelog can be found at the end of the article.
 
 Scripts
 =======
