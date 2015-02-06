@@ -40,5 +40,8 @@ image:
 | [Attack on Titan](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=9541) | 4 | | 2013 (Series 25 Episodes) |
 | [FLCL](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=117) | 4| 2000-2001 (Series 6 Episodes) |
 | [Samurai Champloo](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=1543) | 3| 2004-2005 (Series 26 Episodes) |
-| [Grave of flies](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=332) | 5 | 1988 (Movie) |
+| [Grave of fireflies](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=332) | 5 | 1988 (Movie) |
+| [Black Lagoon](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=3395) | 4 | 2006-2006  (Series 12 Episodes) | 
+| [Black Lagoon: Roberta`s Blood Trail](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=6645) | 3 | 2010-2011 ( Series, 5 Episodes) |
+| [Black Lagoon: The Second Barrage](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=4597) | 3 | 2006-2006 (Series 12 Episodes) |
 {: rules="groups"}
