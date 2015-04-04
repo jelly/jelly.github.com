@@ -47,4 +47,5 @@ image:
 | [Black Lagoon: The Second Barrage](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=4597) | 3 | 2006-2006 (Series 12 Episodes) |
 | [Full Metal Alchemist Brotherhood](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=6107) | 5 | 2009-2010 (Series 64 Episodes) |
 | [Steins;Gate](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=7729) | 5 | 2011 (Series 24 Episodes) |
+| [Ghost in the Shell Stand Alone Complex](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=247) | 4 | 2002-2003 (Series 26 Episodes) |
 {: rules="groups"}
