@@ -49,4 +49,5 @@ image:
 | [Steins;Gate](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=7729) | 5 | 2011 (Series 24 Episodes) |
 | [Ghost in the Shell Stand Alone Complex](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=247) | 4 | 2002-2003 (Series 26 Episodes) |
 | [Darker Than Black](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=4906) | 3 | 2007 (Series 26 Episodes) |
+| [Ghost in the Shell Stand Alone Complex 2nd GIG](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=1176) | 4 | 2004-2005 (Series 26 Episodes) |
 {: rules="groups"}
