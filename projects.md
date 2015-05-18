@@ -6,6 +6,7 @@ tagline: Jelle van der Waa Projects
 tags: [projects, python, coding]
 modified: 12-10-2013
 comments: false
+share: false
 image:
   feature: background.jpg
   creditlink: http://wallbase.cc/wallpaper/2453007

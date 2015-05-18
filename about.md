@@ -6,6 +6,7 @@ tagline: About Jelle van der Waa
 tags: [about]
 modified: 9-9-2013
 comments: false
+share: false
 image:
   feature: background.jpg
 ---
