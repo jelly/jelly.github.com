@@ -1,7 +1,29 @@
+# Site wide configuration
+
 title:            Jelly's Blog
-description:      
+locale:           en_US
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://vdwaa.nl
+#url:              http://vdwaa.nl
+url: http://127.0.0.1:4000
+
+# Jekyll configuration
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+description:      
 disqus_shortname:
 
 # Owner/author information
@@ -10,27 +32,31 @@ owner:
   avatar:         bio-photo.jpg
   bio:            "I'm a software developer at Zarafa and Archlinux Trusted User.."
   email:          jelle@vdwaa.nl
-  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  disqus-shortname: 
   twitter: jvdwaa
-  facebook:
+  facebook: #username
+  google:
+    plus: JellevanderWaa
+    analytics: UA-44870543-1
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
   github: jelly
-  stackoverflow:
+  stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: jvanderwaa
-  instagram:
-  lastfm:
-  tumblr:
-  pinterest:
-  foursquare:
+  xing: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
   steam: jelly_w
-  dribbble:
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus: JellevanderWaa
-
-# Analytics and webmaster tools stuff goes here
-google_analytics: UA-44870543-1
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
 
 # Links to include in top navigation
 # For external links add external: true
@@ -42,28 +68,6 @@ links:
   - title: Projects
     url: /projects/
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    Europe/Amsterdam
-future:      true
-highlighter: pygments
-markdown:    kramdown
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: false
-
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

@@ -8,7 +8,6 @@ modified: 12-10-2013
 comments: false
 image:
   feature: background.jpg
-  credit: Wallbase
   creditlink: http://wallbase.cc/wallpaper/2453007
 ---
 
