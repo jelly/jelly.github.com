@@ -3,8 +3,7 @@
 title:            Jelly's Blog
 locale:           en_US
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-#url:              http://vdwaa.nl
-url: http://127.0.0.1:4000
+url:              http://vdwaa.nl
 
 # Jekyll configuration
 permalink:   /:categories/:title/
