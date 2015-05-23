@@ -37,7 +37,7 @@ image:
 | [Hellsing Ultimate](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=3296) | 4 | 2006 (Series, 10 Episodes) |
 | [Fullmetal Alchemist The Movie: Conqueror of Shamballa](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=2359) | 4 | 2005 (Movie) |
 | [Tengen Toppa Gurren Lagann](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=4575) | 4 | 2007 (Series, 27 Episodes) |
-| [Attack on Titan](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=9541) | 4 | | 2013 (Series 25 Episodes) |
+| [Attack on Titan](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=9541) | 4 |  2013 (Series 25 Episodes) |
 | [FLCL](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=117) | 4| 2000-2001 (Series 6 Episodes) |
 | [Samurai Champloo](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=1543) | 3| 2004-2005 (Series 26 Episodes) |
 | [Grave of fireflies](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=332) | 5 | 1988 (Movie) |
