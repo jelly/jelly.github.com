@@ -6,10 +6,9 @@ tagline: Everything I've seen so far...
 tags: [anime]
 modified: 12-7-2014
 comments: false
+share: false
 image:
   feature: background.jpg
-  credit: Wallbase
-  creditlink: http://wallbase.cc/wallpaper/2453007
 ---
 
 | Name    | Rating | Details |
