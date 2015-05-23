@@ -16,7 +16,7 @@ image:
 | [One piece](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=69)   | 1999-?? (Series, 629 Aired episodes)  |
 | [Cowboy Bebop](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=23)| 1998-1999 (Series, 26 Episodes)   |
 | [Ghost in the Shell](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=61)| 1995 (Movie)   |
-| [Ghost in the Shell 2: Innocence](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=890) | 3 | 2004 (Movie) |
+| [Ghost in the Shell 2: Innocence](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=890) | 2004 (Movie) |
 | [Afro Samurai](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=2656)     | 2009 (Series, 5 Episodes) |
 | [Hellsing](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=32)  | 2001-2002 (Series, 13 Episodes)   |
 | [Tonari no Totoro](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=303) | 1988 (Movie) |
