@@ -51,4 +51,5 @@ image:
 | [Darker Than Black](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=4906) | 3 | 2007 (Series 26 Episodes) |
 | [Ghost in the Shell Stand Alone Complex 2nd GIG](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=1176) | 4 | 2004-2005 (Series 26 Episodes) |
 | [Paprika](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=4191) | 4 | 2006 (Movie) |
+| [Ghost in the Shell Arise](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=9658) | 4 | 2013-2014 (Series 5 Episodes) |
 {: rules="groups"}
