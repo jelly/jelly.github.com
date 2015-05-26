@@ -52,4 +52,5 @@ image:
 | [Paprika](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=4191) | 2006 (Movie) |
 | [Ghost in the Shell Arise](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=9658) | 2013-2014 (Series 5 Episodes) |
 | [Howl's moving castle](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=1218) | 2004 (Movie) |
+| [Ghost in the Shell Stand Alone Complex: Solid State Society](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=4414) | 2006 (Movie) |
 {: rules="groups"}
