@@ -55,4 +55,5 @@ image:
 | [Ghost in the Shell Stand Alone Complex: Solid State Society](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=4414) | 2006 (Movie) |
 | [Death Note](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=4563) | 2006-2007 (Series 37 Episodes) |
 | [Bakamonogatari](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=6327) | 2009 ( 12 Episodes) |
+| [Eve no Jikan](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=5132) | 2008-2009 (6 Episodes) |
 {: rules="groups"}
