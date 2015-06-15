@@ -56,4 +56,5 @@ image:
 | [Death Note](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=4563) | 2006-2007 (Series 37 Episodes) |
 | [Bakamonogatari](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=6327) | 2009 ( 12 Episodes) |
 | [Eve no Jikan](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=5132) | 2008-2009 (6 Episodes) |
+| [Initial D Fifth Stage](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=9344) | 2012-2013 (14 Episodes) |
 {: rules="groups"}
