@@ -57,4 +57,5 @@ image:
 | [Bakamonogatari](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=6327) | 2009 ( 12 Episodes) |
 | [Eve no Jikan](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=5132) | 2008-2009 (6 Episodes) |
 | [Initial D Fifth Stage](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=9344) | 2012-2013 (14 Episodes) |
+| [Initial D Final Stage](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=10486) | 2014 (4 Episodes) |
 {: rules="groups"}
