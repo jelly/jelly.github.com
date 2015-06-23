@@ -58,4 +58,5 @@ image:
 | [Eve no Jikan](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=5132) | 2008-2009 (6 Episodes) |
 | [Initial D Fifth Stage](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=9344) | 2012-2013 (14 Episodes) |
 | [Initial D Final Stage](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=10486) | 2014 (4 Episodes) |
+| [Code Geass](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=4521) | 2006-2007 (25 Episodes) |
 {: rules="groups"}
