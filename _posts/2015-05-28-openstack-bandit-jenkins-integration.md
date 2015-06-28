@@ -15,16 +15,16 @@ Install Bandit using the instructions in the [README](http://git.openstack.org/c
 Now create a new Jenkins job and setup a source code management to fetch your code, then add a new build step like the image below. Where for example *app* is the directory which contains your code.
 
 
-![Execute shell](http://dedi.vdwaa.nl/jenkins_bandit1.png)
+![Execute shell](http://pics.vdwaa.nl/jenkins_bandit1.png)
 
 Now add a 'post-build action' to parse the XML output from Bandit and publish the results.
 
-![Execute shell](http://dedi.vdwaa.nl/jenkins_bandit2.png)
+![Execute shell](http://pics.vdwaa.nl/jenkins_bandit2.png)
 
 Once this is finished, you can trigger and build and you should see tests results as for example shown below.
 
-![Execute shell](http://dedi.vdwaa.nl/jenkins_bandit3.png)
+![Execute shell](http://pics.vdwaa.nl/jenkins_bandit3.png)
 
 When you click on a failed tests it shows more details about the possible issue. 
 
-![Execute shell](http://dedi.vdwaa.nl/jenkins_bandit4.png)
+![Execute shell](http://pics.vdwaa.nl/jenkins_bandit4.png)
