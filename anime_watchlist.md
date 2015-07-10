@@ -61,4 +61,5 @@ image:
 | [Code Geass](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=4521) | 2006-2007 (25 Episodes) |
 | [Redline](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=6529) | 2009 (Movie) |
 | [K'on!](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=6257) | 2009 (12 Episodes) |
+| [When Marnie Was There](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=10313) | 2014 (Movie) |
 {: rules="groups"}
