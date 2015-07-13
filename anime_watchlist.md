@@ -63,4 +63,5 @@ image:
 | [K'on!](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=6257) | 2009 (12 Episodes) |
 | [When Marnie Was There](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=10313) | 2014 (Movie) |
 | [Gekijouban Steins;Gate: Fuka Ryouiki no Deja vu](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=8655) | 2013 (Movie) |
+| [One Piece Strong World](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=6537) | 2009 (Movie |
 {: rules="groups"}
