@@ -66,4 +66,5 @@ image:
 | [One Piece Strong World](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=6537) | 2009 (Movie) |
 | [One Piece Movie: Z](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=8940) | 2012 (Movie) |
 | [Angel Beats!](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=6564) | 2010 (Series 13 Episodes) |
+| [One Piece: Omatsuri Danshaku to Himitsu no Shima](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=2644) | 2005 (Movie) |
 {: rules="groups"}
