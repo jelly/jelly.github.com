@@ -70,4 +70,5 @@ image:
 | [Samurai Flamenco](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=9967) | 2013-2014 (Series 22 Episodes) |
 | [Planetes](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=895) | 2003-2004 (Series 26 Episodes) |
 | [Akame ga kill!](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=10407) | 2014 (Series 24 Episodes) |
+| [One Punch Man](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=11123) | 2015 (Series 12 Episodes) |
 {: rules="groups"}
