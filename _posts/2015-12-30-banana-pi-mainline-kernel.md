@@ -6,7 +6,7 @@ comments: false
 categories: [Archlinux, ARM, BananaPi, Linux]
 ---
 
-I posted a guide on getting [Arch Linux ARM on the BananaPi](http://vdwaa.nl/archlinux/arm/bananapi/banana-pi-archlinux-arm/) last week. Now I was eager to get a mainline kernel working on the BananPi for some ARM hacking and testing of new patches. In this post I'll describe the steps required to get a mainline kernel booted next to the "normal" kernel.
+I posted a guide on getting [Arch Linux ARM on the BananaPi](http://vdwaa.nl/archlinux/arm/bananapi/banana-pi-archlinux-arm/) last week. Now I was eager to get a mainline kernel working on the BananaPi for some ARM hacking and testing of new patches. In this post I'll describe the steps required to get a mainline kernel booted next to the "normal" kernel.
 
 Compiling mainline kernel
 -------------------------
