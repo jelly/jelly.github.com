@@ -72,4 +72,5 @@ image:
 | [Akame ga kill!](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=10407) | 2014 (Series 24 Episodes) |
 | [One Punch Man](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=11123) | 2015 (Series 12 Episodes) |
 | [Ghost in the Shell: Alternative Architecture](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=11023) | 2015 (Series 10 Episodes) |
+| [Death Billiards](https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9253) | 2013 (Movie) |
 {: rules="groups"}
