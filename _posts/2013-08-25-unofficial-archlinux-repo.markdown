@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "unofficial Archlinux repo"
+title: "unofficial Arch Linux repo"
 date: 2013-08-25 18:37
 comments: false
 categories: [Archlinux, AUR, repo ]

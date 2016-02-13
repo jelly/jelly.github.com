@@ -4,6 +4,7 @@ title:            Jelly's Blog
 locale:           en_US
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://vdwaa.nl
+#url:              http://127.0.0.1:4000
 
 # Jekyll configuration
 permalink:   /:categories/:title/
@@ -20,7 +21,7 @@ kramdown:
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
-  use_coderay: false
+  enable_coderay: false
 
 description:      
 disqus_shortname:
@@ -29,7 +30,7 @@ disqus_shortname:
 owner:
   name:           Jelle van der Waa
   avatar:         bio-photo.jpg
-  bio:            "I'm a software developer at Zarafa and Archlinux Trusted User.."
+  bio:            "I'm a software developer at Zarafa and Arch Linux Trusted User.."
   email:          jelle@vdwaa.nl
   disqus-shortname: 
   twitter: jvdwaa
