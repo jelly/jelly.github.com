@@ -73,4 +73,5 @@ image:
 | [One Punch Man](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=11123) | 2015 (Series 12 Episodes) |
 | [Ghost in the Shell: Alternative Architecture](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=11023) | 2015 (Series 10 Episodes) |
 | [Death Billiards](https://anidb.net/perl-bin/animedb.pl?show=anime&aid=9253) | 2013 (Movie) |
+| [Sword Art Online](https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8692) | 2012 (Series 25 Episodes) |
 {: rules="groups"}
