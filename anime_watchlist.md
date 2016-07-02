@@ -76,4 +76,5 @@ image:
 | [Sword Art Online](https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8692) | 2012 (Series 25 Episodes) |
 | [One Piece: Norowareta Seiken](https://anidb.net/perl-bin/animedb.pl?show=anime&aid=2036) | 2004 (Movie) |
 | [Ghost in the Shell: The New Movie](https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10824) | 2015 (Movie) |
+| [Hunter x Hunter (2011)](https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8550) | 2011 (Series 148 episodes) |
 {: rules="groups"}
