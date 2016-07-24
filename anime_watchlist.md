@@ -78,4 +78,5 @@ image:
 | [Ghost in the Shell: The New Movie](https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10824) | 2015 (Movie) |
 | [Hunter x Hunter (2011)](https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8550) | 2011 (Series 148 episodes) |
 | [Koutetsujou no Kabaneri](https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10951) | 2016 (Series 12 episodes) |
+| [Pokemon Origins](https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10031) | 2013 (TV special 4 episodes) |
 {: rules="groups"}
