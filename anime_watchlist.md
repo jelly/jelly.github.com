@@ -80,4 +80,6 @@ image:
 | [Koutetsujou no Kabaneri](https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10951) | 2016 (Series 12 episodes) |
 | [Pokemon Origins](https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10031) | 2013 (TV special 4 episodes) |
 | [Fate/Zero](http://anidb.net/perl-bin/animedb.pl?show=anime&aid=8160) | 2011 (Series 13 episodes) |
+| [Jieitai Kanochi nite, Kaku Tatakaeri](https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10982) | 2015 (Series 12 episodes) |
+| [Jieitai Kanochi nite, Kaku Tatakaeri Season 2](https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11602) | 2016 (Series 12 episodes) |
 {: rules="groups"}
