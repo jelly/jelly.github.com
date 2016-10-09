@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "5 euro USB logic analyzer review"
-date: 2016-08-26 23:00
+date: 2016-09-26 23:00
 comments: false
 categories: [logic analyzer, pulseview, arch, linux]
 ---
