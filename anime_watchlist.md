@@ -83,4 +83,5 @@ image:
 | [Jieitai Kanochi nite, Kaku Tatakaeri](https://anidb.net/perl-bin/animedb.pl?show=anime&aid=10982) | 2015 (Series 12 episodes) |
 | [Jieitai Kanochi nite, Kaku Tatakaeri Season 2](https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11602) | 2016 (Series 12 episodes) |
 | [Space Brothers](https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8865) | 2012-2014 (Series 99 episodes) |
+| [Jin-Rou](https://anidb.net/perl-bin/animedb.pl?show=anime&aid=83) | 2000 (Movie) |
 {: rules="groups"}
