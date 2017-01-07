@@ -85,4 +85,5 @@ image:
 | [Space Brothers](https://anidb.net/perl-bin/animedb.pl?show=anime&aid=8865) | 2012-2014 (Series 99 episodes) |
 | [Jin-Rou](https://anidb.net/perl-bin/animedb.pl?show=anime&aid=83) | 2000 (Movie) |
 | [Drifters](https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11164) | 2016 (Series 12 episodes) |
+| [Boko no Hero Academia](https://anidb.net/perl-bin/animedb.pl?show=anime&aid=11739) | 2016 (Series 13 episodes) |
 {: rules="groups"}
