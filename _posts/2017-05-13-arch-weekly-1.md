@@ -11,7 +11,7 @@ the Arch Linux community. Hopefully this will be a recurring weekly blog post!
 
 ## linux-hardened appears in [community]
 
-After the disappearance of linux-grsecurity from the repos due to the Grsecurity
+After the disappearance of linux-grsec from the repos due to the Grsecurity
 project not providing the required patches. [Daniel Micay](https://www.archlinux.org/people/trusted-users/#thestinger) provides an alternative [linux-hardened](https://www.archlinux.org/packages/community/x86_64/linux-hardened/) in [community]. The package is based on the following [Linux fork](https://github.com/thestinger/linux-hardened) which contains more security patches than in the Linux mainline kernel and enables more security configuration options by default such as SLAB_FREELIST_RANDOM.
 More information can be found on the
 [wiki](https://github.com/thestinger/linux-hardened/wiki) of the project.
@@ -27,7 +27,7 @@ virtualbox and qemu/libvirt option. View the project [here](https://github.com/s
 
 Even after the enormous OpenSSL 1.1 rebuild, not every package in the repository
 uses OpenSSL 1.1 yet. Qt 4 currently in [extra] uses OpenSSL 1.1 with 27
-packages left in the repository which depend on openssl-1.0. Other OpenSSL 1.0 depending packages are now being [rebuild](https://www.archlinux.org/todo/openssl-10-take-3/) to stay compatible with Debian Stable and non-free software. See this [bugreport](https://bugs.archlinux.org/task/53836) for more information.
+packages left in the repository which depend on openssl-1.0. Other OpenSSL 1.0 depending packages are now being [rebuilt](https://www.archlinux.org/todo/openssl-10-take-3/) to stay compatible with Debian Stable and non-free software. See this [bug report](https://bugs.archlinux.org/task/53836) for more information.
 
 ## Boost 1.64 rebuild
 
