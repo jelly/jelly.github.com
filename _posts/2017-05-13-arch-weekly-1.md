@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Arch weekly 2017-05-17"
+title: "Arch weekly #1"
 date: 2017-05-17 20:00
 comments: false
 categories: [Arch, weekly, news]
 ---
 
 This is the first edition of Arch weekly, a small weekly post about the news in
-the Arch Linux community.
+the Arch Linux community. Hopefully this will be a recurring weekly blog post!
 
 ## linux-hardened appears in [community]
 
