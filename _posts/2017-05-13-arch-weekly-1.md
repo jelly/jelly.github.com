@@ -12,7 +12,7 @@ the Arch Linux community. Hopefully this will be a recurring weekly blog post!
 ## linux-hardened appears in [community]
 
 After the disappearance of linux-grsecurity from the repos due to the Grsecurity
-project not providing the required patches. [Daniel Micay](https://www.archlinux.org/people/trusted-users/#thestinger) provides an alternative [linux-hardened](https://www.archlinux.org/packages/community/x86_64/linux-hardened/) in [community]. The package is based on the following [Linux fork](https://github.com/thestinger/linux-hardened) which contains more security patches then in the Linux mainline kernel and enables more security configuration options by default such as SLAB_FREELIST_RANDOM.
+project not providing the required patches. [Daniel Micay](https://www.archlinux.org/people/trusted-users/#thestinger) provides an alternative [linux-hardened](https://www.archlinux.org/packages/community/x86_64/linux-hardened/) in [community]. The package is based on the following [Linux fork](https://github.com/thestinger/linux-hardened) which contains more security patches than in the Linux mainline kernel and enables more security configuration options by default such as SLAB_FREELIST_RANDOM.
 More information can be found on the
 [wiki](https://github.com/thestinger/linux-hardened/wiki) of the project.
 
