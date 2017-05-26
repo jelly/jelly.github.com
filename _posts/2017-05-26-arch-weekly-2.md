@@ -27,7 +27,7 @@ contains some build fixes.
 
 Archweb has been [upgraded to 1.8 LTS](https://lists.archlinux.org/pipermail/arch-dev-public/2017-May/028840.html),
 previously it was running on 1.7 which is no longer supported. If you encounter
-any issues on Archweb please report them on the
+any issues on https://archlinux.org please report them on the
 [bugtracker](https://bugs.archlinux.org/).
 
 ## MariaDB upgrade important news
