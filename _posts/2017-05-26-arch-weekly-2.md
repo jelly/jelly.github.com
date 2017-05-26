@@ -41,9 +41,7 @@ Thore Bödecker joins the TU team, you can read his application [here](https://l
 ## Discussion about improving the overall experience of contributors
 
 Bartłomiej has started a [discussion](https://lists.archlinux.org/pipermail/arch-dev-public/2017-May/028851.html) on arch-dev-public about
-improving and getting more external contributors involved in Arch Linux. Not only could existing Arch projects such as pyalpm, archweb and namcap use more contributors for development of new features and fixing bugs. Arch could also use more contributors for new projects and ideas such as rebuild automation and the maintenance of our infrastructure.
-
-For those wondering what the infrastructure is about, Arch has a few dedicated servers for the forums, building packages, etc. all these servers are managed with ansible with the [playbooks in git](https://git.archlinux.org/infrastructure.git/)
+improving and getting more external contributors involved in Arch Linux. Not only could existing Arch projects such as pyalpm, archweb and namcap use more contributors for development of new features and fixing bugs. Arch could also use more contributors for new projects and ideas such as rebuild automation and the maintenance of our infrastructure. For those wondering what the infrastructure is about, Arch has a few dedicated servers for the forums, building packages, etc. all these servers are managed with ansible with the [playbooks in git](https://git.archlinux.org/infrastructure.git/)
 
 ## Security updates of the week
 
