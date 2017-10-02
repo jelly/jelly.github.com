@@ -37,3 +37,7 @@ Eli Schwartz joins as bugwrangler by helping out assigning and investigation new
 
 If you package packages which uses meson as a build tool then the arch-meson is
 useful since it sets defaults for Arch.
+
+## Arch manpages website
+
+A new website popped up which hosts [Arch manual pages](http://jlk.fjfi.cvut.cz/arch/manpages/).
