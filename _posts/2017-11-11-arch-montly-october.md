@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Arch montly October"
+title: "Arch monthly October"
 date: 2017-11-11 11:11
 comments: false
 categories: [Arch, monthly, October, news]
