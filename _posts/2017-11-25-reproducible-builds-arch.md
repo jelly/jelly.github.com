@@ -15,9 +15,7 @@ Currently 77% of the 17% tested packages are reproducible as can be found
 [here](https://tests.reproducible-builds.org/archlinux/archlinux.html). This page is fed by the work done by two [Jenkins
 builders](https://jenkins.debian.net/job/reproducible_builder_archlinux_2/), which currently build the whole Arch repository.
 The builder builds the package twice in different environments and then uses [diffoscope](https://diffoscope.org/) to find differences in
-packages. Usually the differences are due to timestamps :-).
-
-Now that we have some results of rebuilds, we can start fixing our packages. The work I did so far:
+packages. Usually the differences are due to timestamps :-). Now that we have some results of rebuilds, we can start fixing our packages. The work I did so far:
 
 * Fixing 404 sources of our packages, some of the source failures where due to ftp://kernel.org being used and not https://www.kernel.org.
 This has been fixed in SVN. Also old pypi links needed to be [fixed](https://git.archlinux.org/svntogit/packages.git/commit/?id=c93ea7238a2f06d295ae4df375fa33e708b90bcf)
