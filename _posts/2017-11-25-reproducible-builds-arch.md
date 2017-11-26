@@ -36,6 +36,7 @@ As you can see, only one of the bullet points was really an reproducible build i
 that reproducible builds will increase the packaging quality in the Arch repository. Having the packages in our repository always build-able
 will also help the Arch Linux 32 project.
 
+
 The Arch reproducible project still needs a lot of work, to make it possible to verify a package build as a user against the repository
 package.
 
