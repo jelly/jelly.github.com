@@ -27,7 +27,7 @@ moved to the AUR, where they can be picked up and taken care of.
 ## AUR 4.6.0 Release
 
 A new version of [aurweb](https://www.mail-archive.com/aur-general@archlinux.org/msg32245.html) has
-been released on December third. It brings markdown support for ccomments and more Trusted User
+been released on December third. It brings markdown support for comments and more Trusted User
 specific changes.
 
 ## Happy 2018!
