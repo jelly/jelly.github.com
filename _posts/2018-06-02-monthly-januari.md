@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Arch monthly Januari"
+title: "Arch monthly January"
 date: 2018-02-06 13:37
 comments: false
-categories: [Arch, monthly, Januari, news]
+categories: [Arch, monthly, January, news]
 ---
 
 ## Arch Linux @ FOSDEM
