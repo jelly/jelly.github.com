@@ -12,7 +12,7 @@ Finally! A new pacman release, this version adds some critical bits for reproduc
 
 ## BUILDINFO Rebuild
 
-For reprodcubile builds, every package in the repository build on a users system should create exactly the same package as the repository package. To be able to achieve this the packages which where installed in build chroot are recorded in a BUILDINFO file which is added in the .pkg.tar.xz package. BUILDINFO files where added a while ago in pacman, but not every package contains them yet! Interestingly enough even a rolling release distro contains packages from [2013](https://www.archlinux.org/packages/?sort=last_update) these are now being rebuild! This also ties in to the [cleanup of archive.archlinux.org](https://lists.archlinux.org/pipermail/arch-dev-public/2018-May/029261.html), since the archive server is almost full.
+For reproducible builds, every package in the repository build on a users system should create exactly the same package as the repository package. To be able to achieve this the packages which where installed in build chroot are recorded in a BUILDINFO file which is added in the .pkg.tar.xz package. BUILDINFO files where added a while ago in pacman, but not every package contains them yet! Interestingly enough even a rolling release distro contains packages from [2013](https://www.archlinux.org/packages/?sort=last_update), these are now being rebuild! This also ties in to the [cleanup of archive.archlinux.org](https://lists.archlinux.org/pipermail/arch-dev-public/2018-May/029261.html), since the archive server is almost full and the 2013/2014/2015 directories will be removed. If you have a good network connection and want to mirror the archive, reach out!
 
 ## pkgconf replaces pkg-config
 
